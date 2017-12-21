@@ -1,0 +1,22 @@
+.testimonial {
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.125em;
+    font-style: italic;
+    justify-content: center;
+}
+
+.testimonial-content {
+    flex: 1 1 20em;
+    margin-left: 1em;
+}
+
+.testimonial img {
+    border-radius: 50%;
+    margin-bottom: 1em;
+}
+
+.testimonial-footer {
+    text-align: right;
+}

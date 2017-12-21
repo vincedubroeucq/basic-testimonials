@@ -1,0 +1,332 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Basic Testimonials\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-08-01 14:05+0200\n"
+"PO-Revision-Date: 2017-08-01 14:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: Vincent Dubroeucq <vincent@vincentdubroeucq.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_x:1,2c;_ex:1,2c;_n:1,2;"
+"_nx:4c,1,2;_n_noop:1,2;_nx_noop:4c,1,2;_ngettext_noop:1,2;"
+"translate_nooped_plural;esc_html;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"esc_attr;esc_attr__;esc_attr_e;esc_attr_x:1,2c;number_format_i18n;date_i18n\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin_help.php:16
+msgid "Name of the author"
+msgstr "Nom de l'auteur"
+
+#: inc/admin_help.php:42
+#, php-format
+msgid "Testimonial updated. <a href='%s'>View testimonial</a>"
+msgstr "Témoignage mis à jour. <a href='%s'>Voir le témoignage</a>"
+
+#: inc/admin_help.php:43
+msgid "Custom field updated."
+msgstr "Champ personnalisé mis à jour."
+
+#: inc/admin_help.php:44
+msgid "Custom field deleted."
+msgstr "Champ personnalisé supprimé."
+
+#: inc/admin_help.php:45
+msgid "Testimonial updated."
+msgstr "Témoignage mis à jour."
+
+#: inc/admin_help.php:47
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr "Témoignage rétabli à partir de la révision du %s"
+
+#: inc/admin_help.php:48
+#, php-format
+msgid "Testimonial published. <a href='%s'>View testimonial</a>"
+msgstr "Témoignage publié. <a href='%s'>Voir le témoignage</a>"
+
+#: inc/admin_help.php:49
+msgid "Testimonial saved."
+msgstr "Témoignage enregistré."
+
+#: inc/admin_help.php:50
+#, php-format
+msgid ""
+"Testimonial submitted. <a target='_blank' href='%s'>Preview testimonial</a>"
+msgstr ""
+"Le témoignage a été soumis. <a target='_blank' href='%s'>Prévisualiser le "
+"témoignage</a>"
+
+#: inc/admin_help.php:51
+#, php-format
+msgid ""
+"Testimonial scheduled for: <strong>%1$s</strong>. <a target='_blank' "
+"href='%2$s'>Preview testimonial</a>"
+msgstr ""
+"Témoignage programmé pour : <strong>%1$s</strong>. <a target='_blank' "
+"href='%2$s'>Prévisualiser le témoignage</a>"
+
+#: inc/admin_help.php:53
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: inc/admin_help.php:54
+#, php-format
+msgid ""
+"Testimonial draft updated. <a target='_blank' href='%s'>Preview testimonial</"
+"a>"
+msgstr ""
+"Brouillon du témoignage mis à jour. <a target='_blank' "
+"href='%s'>Prévisualiser le témoignage.</a>"
+
+#: inc/admin_help.php:74
+#, php-format
+msgid "%s testimonial updated."
+msgid_plural "%s testimonials updated."
+msgstr[0] "%s témoignage mis à jour."
+msgstr[1] "%s témoignages mis à jour."
+
+#: inc/admin_help.php:75
+#, php-format
+msgid "%s testimonial not updated, somebody is editing it."
+msgid_plural "%s testimonials not updated, somebody is editing them."
+msgstr[0] "%s témoignage non mis à jour. Quelqu'un est en train de l'éditer."
+msgstr[1] ""
+"%s témoignages non mis à jour. Quelqu'un est en train de les éditer."
+
+#: inc/admin_help.php:76
+#, php-format
+msgid "%s testimonial permanently deleted."
+msgid_plural "%s testimonials permanently deleted."
+msgstr[0] "%s témoignage définitivement supprimé."
+msgstr[1] "%s témoignages définitivement supprimés."
+
+#: inc/admin_help.php:77
+#, php-format
+msgid "%s testimonial moved to the Trash."
+msgid_plural "%s testimonials moved to the Trash."
+msgstr[0] "%s témoignage mis à la corbeille."
+msgstr[1] "%s témoignages mis à la corbeille."
+
+#: inc/admin_help.php:78
+#, php-format
+msgid "%s testimonial restored from the Trash."
+msgid_plural "%s testimonials restored from the Trash."
+msgstr[0] "%s témoignage restauré hors de la corbeille."
+msgstr[1] "%s témoignages restaurés hors de la corbeille."
+
+#: inc/admin_help.php:99
+msgid "Testimonial help"
+msgstr "Aide pour les témoignages"
+
+#: inc/admin_help.php:109
+msgid "Here is some help to fill in this testimonial"
+msgstr "Voici de l'aide pour remplir correctement votre témoignage"
+
+#: inc/admin_help.php:111
+msgid ""
+"Title field: Enter the name of your client. This text will serve as an "
+"anchor for the link, so you can also add your client's website name, "
+"seperated from his name by a comma."
+msgstr ""
+"Champ titre : Entrez le nom du client. Ce texte sert d'ancre pour le lien de "
+"citation, donc vous pouvez aussi ajouter le nom du site de votre client, en "
+"le séparant de son nom par une virgule, par exemple."
+
+#: inc/admin_help.php:112
+msgid "Content editor: Enter the content of your client's comment."
+msgstr "Editeur de contenu : Entrez le contenu du commentaire de votre client."
+
+#: inc/admin_help.php:113
+msgid ""
+"Website URL: Enter the URL of your client's website. Leave blank if you do "
+"not want to link to the wild."
+msgstr ""
+"URL du site web : Entrez l'URL du site de votre client. Laissez ce champ "
+"vide si vous ne voulez pas créer de lien externe."
+
+#: inc/custom_post_type.php:13
+msgctxt "Post type general name"
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/custom_post_type.php:14
+msgctxt "Post type singular name"
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: inc/custom_post_type.php:15
+msgctxt "Admin Menu text"
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/custom_post_type.php:16
+msgctxt "Add New on Toolbar"
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: inc/custom_post_type.php:17
+msgid "Add New"
+msgstr "Ajouter"
+
+#: inc/custom_post_type.php:18
+msgid "Add New Testimonial"
+msgstr "Ajouter un nouveau témoignage"
+
+#: inc/custom_post_type.php:19
+msgid "New Testimonial"
+msgstr "Nouveau témoignage"
+
+#: inc/custom_post_type.php:20
+msgid "Edit Testimonial"
+msgstr "Modifier le témoignage"
+
+#: inc/custom_post_type.php:21
+msgid "View Testimonial"
+msgstr "Voir le témoignage"
+
+#: inc/custom_post_type.php:22
+msgid "All Testimonials"
+msgstr "Tous les témoignages"
+
+#: inc/custom_post_type.php:23
+msgid "Search Testimonial"
+msgstr "Rechercher dans les témoignages"
+
+#: inc/custom_post_type.php:24
+msgid "Parent Testimonial:"
+msgstr "Témoignage parent:"
+
+#: inc/custom_post_type.php:25
+msgid "No Testimonial found."
+msgstr "Aucun témoignage trouvé."
+
+#: inc/custom_post_type.php:26
+msgid "No Testimonials found in Trash."
+msgstr "Aucun témoignage trouvé dans la corbeille."
+
+#: inc/custom_post_type.php:27
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Testimonial Author Picture"
+msgstr "Photo de l'auteur du témoignage"
+
+#: inc/custom_post_type.php:28
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set Author Picture"
+msgstr "Ajouter une photo de l'auteur du témoignage"
+
+#: inc/custom_post_type.php:29
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove Author Picture"
+msgstr "Enlever la photo de l'auteur du témoignage"
+
+#: inc/custom_post_type.php:30
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as Author Picture"
+msgstr "Utiliser comme photo de l'auteur du témoignage"
+
+#: inc/custom_post_type.php:31
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Testimonial archives"
+msgstr "Archive des témoignages"
+
+#: inc/custom_post_type.php:32
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into testimonial"
+msgstr "Insérer dans le témoignage"
+
+#: inc/custom_post_type.php:33
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this testimonial"
+msgstr "Mis en ligne dans ce témoignage"
+
+#: inc/custom_post_type.php:34
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter testimonials list"
+msgstr "Filtrer la liste des témoignages"
+
+#: inc/custom_post_type.php:35
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Testimonials list navigation"
+msgstr "Navigation de la liste des témoignages"
+
+#: inc/custom_post_type.php:36
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Testimonials list"
+msgstr "Liste des témoignages"
+
+#: inc/custom_post_type.php:65
+msgid "Author Picture"
+msgstr "Photo de l'auteur"
+
+#: inc/custom_post_type.php:66
+msgid "Testimonial Content"
+msgstr "Contenu du témoignage"
+
+#: inc/custom_post_type.php:121
+msgid "Website information"
+msgstr "Informations sur le site web"
+
+#: inc/custom_post_type.php:142
+msgid "Website URL: "
+msgstr "URL du site web: "
+
+#: inc/form-shortcode.php:27
+msgid "Thanks for submitting ! Here's a preview of your testimonial."
+msgstr "Merci ! Voici un aperçu de votre témoignage."
+
+#: inc/form-shortcode.php:36
+msgid ""
+"Please fill in the form below to submit your testimonial. Don't forget to "
+"include a nice photo !"
+msgstr ""
+"Veuillez remplir le formulaire suivant pour soumettre votre témoignage. "
+"N'oubliez pas d'ajouter une photo sympa !"
+
+#: inc/form-shortcode.php:43
+msgid "Type in your name and/or website name or job"
+msgstr "Entrez votre nom et/ou nom du site web ou poste"
+
+#: inc/form-shortcode.php:46
+msgid "Type in your website url"
+msgstr "Entrez l'adresse de votre site web"
+
+#: inc/form-shortcode.php:49
+msgid "Type in your testimonial"
+msgstr "Ecrivez votre témoignage"
+
+#: inc/form-shortcode.php:52
+msgid "Upload a nice photo ! (200px by 200px .png or .jpg)"
+msgstr "Téléchargez une belle photo ! (200px par 200px, .png ou .jpg)"
+
+#: inc/form-shortcode.php:57
+msgid "Submit"
+msgstr "Envoyer"
+
+#: inc/form-shortcode.php:134
+msgid "Please show you're human."
+msgstr "Veuillez prouver que vous êtes humain."
