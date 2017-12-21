@@ -27,7 +27,7 @@ To display the form, all you have to do is use the [testimonial-form] shortcode 
 This will generate a simple form where users can type in their name, website url, comment and even upload a picture.
 If the process went fine the user will get a preview of his testimonial, and you'll just have to approve it in your backend before using it.
 
-If you have any questions, email me at [vincentdubroeucq.com](http://vincentdubroeucq.com/contact/ "Contact")
+If you have any questions, email me at [vincentdubroeucq.com](https://vincentdubroeucq.com/contact/ "Contact")
 
 == Installation ==
 
