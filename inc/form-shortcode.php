@@ -112,10 +112,9 @@ function basic_testimonials_process_form() {
         wp_redirect( $_POST['_wp_http_referer'] . '?preview=' . $testimonial_id );
         exit; 
     } else {
-        wp_redirect( site_url() );
+        wp_redirect( home_url() );
         exit;
     }
-    
 }
 
 

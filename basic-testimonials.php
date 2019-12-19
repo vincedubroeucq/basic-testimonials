@@ -3,7 +3,7 @@
 Plugin Name: Basic Testimonials
 Plugin URI:  https://vincentdubroeucq.com
 Description: Basic Testimonials allows you to add testimonials to your site via a 'testimonial' custom post type, and a super easy to use [testimonial] shortcode to embed them in your content.
-Version:     1.1.1
+Version:     1.1.3
 Author:      Vincent Dubroeucq
 Author URI:  https://vincentdubroeucq.com
 Text Domain: basic-testimonials

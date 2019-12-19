@@ -3,8 +3,8 @@ Contributors: vincentdubroeucq
 Donate link: http://vincentdubroeucq.com
 Tags: testimonials, testimonial, shortcode
 Requires at least: 4.0
-Tested up to: 4.8
-Stable tag: 1.1.1
+Tested up to: 5.3.2
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,6 +50,9 @@ If you have any questions, email me at [vincentdubroeucq.com](https://vincentdub
 
 == Changelog ==
 
+= 1.1.2 =
+* Tested with WordPress 5.0.1.
+
 = 1.1.1 =
 * Improved front end submission form security.
 
@@ -66,6 +69,9 @@ If you have any questions, email me at [vincentdubroeucq.com](https://vincentdub
 Yes. It uses minimal styling so that testimonials blend seamlessly into your theme.
 
 == Upgrade Notice ==
+
+= 1.1.2 =
+* Tested with WordPress 5.0.1.
 
 = 1.1.1 =
 Improved front end submission form security.
